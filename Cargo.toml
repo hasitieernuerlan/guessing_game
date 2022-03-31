@@ -2,7 +2,7 @@
 name = "guessing_game"
 version = "0.1.0"
 edition = "2018"
-authors = [" kcodin "]
+authors = [" kcodin <35337381+kcodinkz@users.noreply.github.com>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
